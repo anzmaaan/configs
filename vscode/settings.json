@@ -1,0 +1,32 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "blender.scripts.directories": [
+        {
+            "path": "D:\\3D\\Blender\\Scripting\\blender-scene-keeper",
+            "name": ""
+        }
+    ],
+    "blender.executables": [
+
+        {
+            "path": "C:\\Program Files\\Blender Foundation\\Blender 2.92\\blender.exe",
+            "name": "",
+            "isDebug": false
+        },
+        {
+            "path": "C:\\Program Files\\Blender Foundation\\Blender 2.92\\blender.exe",
+            "name": "",
+            "isDebug": false
+        }
+    ],
+    "workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
+    "window.zoomLevel": 0,
+    "pasteAndIndent.selectAfter": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
+    "gitProjectManager.baseProjectsFolders": [
+        "D:\\ZDF\\Babylon",
+        "D:\\ZDF\\Scripting\\blenderscripts",
+        "D:\\Projekte\\Python"
+    ]

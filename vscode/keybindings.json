@@ -1,0 +1,28 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    // Blender
+    {
+        "key": "ctrl+alt+r",
+        "command": "blender.runScript"
+    },
+    {
+        "key": "ctrl+alt+b",
+        "command": "blender.start"
+    },
+    // Paste And Indent
+    {
+        "key": "cmd+v",
+        "command": "pasteAndIndent.action",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "cmd+v",
+        "command": "editor.action.clipboardPasteAction",
+        "when": "!editorTextFocus"
+    },
+    {
+        "key": "cmd+shift+v",
+        "command": "editor.action.clipboardPasteAction",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]
