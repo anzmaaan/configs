@@ -1,2 +1,4 @@
-# configs
-config, startup, keybinding, ...
+My config files
+
+- blender
+- vscode
