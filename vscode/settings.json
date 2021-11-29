@@ -28,5 +28,12 @@
     "gitProjectManager.baseProjectsFolders": [
         "D:\\ZDF\\Babylon",
         "D:\\ZDF\\Scripting\\blenderscripts",
-        "D:\\Projekte\\Python"
-    ]
+        "D:\\Projekte\\Python",
+        "D:\\Projekte\\Javascript"
+    ],
+    "editor.lightbulb.enabled": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.hover.above": false,
+}
